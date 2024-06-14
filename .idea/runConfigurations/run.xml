@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="run" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.github.genSQL.App" />
+    <module name="genSQL" />
+    <option name="PROGRAM_PARAMETERS" value="mysql://localhost:3306/auth?serverTimezone=UTC -p toor -u root" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
