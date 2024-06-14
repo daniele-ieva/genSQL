@@ -1,5 +1,7 @@
 # genSQL: A generic database Command Line Tool
 
+### <a href="/daniele-ieva/genSQL/releases/download/0.1-a/genSQL.jar">download jar</a>
+
 genSQL is a simple command line tool to access, fetch, and modify data in various types of database using SQL queries.
 
 ## Supported Databases
