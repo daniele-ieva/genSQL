@@ -4,12 +4,15 @@ genSQL is a simple command line tool to access, fetch, and modify data in variou
 
 ## Supported Databases
 
+marked with ⚠️ are the ones which I did not really test, but should very likely work just fine.
+
 - mySQL
-- postgreSQL
-- mariaDB
-- sqlite
-- oracleSQL
-- msSQL
+- postgreSQL ⚠️
+- mariaDB ⚠️
+- sqlite ⚠️
+- oracleSQL ⚠️
+- msSQL ⚠️
+- google spanner ⚠️
 ## Usage
 
 To use this program simply run:
