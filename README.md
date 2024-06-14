@@ -7,7 +7,9 @@ genSQL is a simple command line tool to access, fetch, and modify data in variou
 - mySQL
 - postgreSQL
 - mariaDB
-
+- sqlite
+- oracleSQL
+- msSQL
 ## Usage
 
 To use this program simply run:
